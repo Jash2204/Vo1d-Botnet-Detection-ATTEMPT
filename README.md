@@ -1,10 +1,11 @@
 # Vo1d-Botnet-Detection-ATTEMPT
+
+🚨 Disclaimer: I am not a cybersecurity expert. I am a university student who read about the Vo1d botnet in the news and wanted to develop something that could potentially help affected users. This project was created with the assistance of ChatGPT and based on publicly available cybersecurity research. If you are an expert in this field, I would greatly appreciate any feedback to improve the detection methods.
+
 Python-based tool to detect potential Vo1d botnet infections on Android TV using network traffic analysis. Identifies suspicious DNS queries, C2 connections, and unusual ports. Developed by a university student with ChatGPT’s help—seeking cybersecurity experts for further development and improvements.
 
 Overview
 This repository contains research and a Python-based tool designed to detect potential Vo1d botnet infections on Android TV devices using network traffic analysis.
-
-🚨 Disclaimer: I am not a cybersecurity expert. I am a university student who read about the Vo1d botnet in the news and wanted to develop something that could potentially help affected users. This project was created with the assistance of ChatGPT and based on publicly available cybersecurity research. If you are an expert in this field, I would greatly appreciate any feedback to improve the detection methods.
 
 Features
 Live Network Traffic Monitoring using PyShark and Scapy.
